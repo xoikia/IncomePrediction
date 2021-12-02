@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PREDICTION</title>
+<!--    <link rel="stylesheet" href={{url_for("static",filename='static/index.css')}}>-->
+    <link rel="stylesheet" type="text/css" href="static/index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class = "container">
+        <div class = "title">ANNUAL INCOME PREDICTION</div>
+        <div class = "content">
+            <form method="post">
+                <div class = "user-details">
+                    <div class = "input-box">
+                        <span class="details">{{ form.Name.label }}</span>
+                        <p>{{ form.Name() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Age.label }}</span>
+                        <p>{{ form.Age() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Work_Class.label }}</span>
+                        <p>{{ form.Work_Class() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Education.label }}</span>
+                        <p>{{ form.Education }}</p>
+                    </div>
+                    
+                    <div class = "input-box">
+                        <span class="details">{{ form.Marital_Status.label }}</span>
+                        <p>{{ form.Marital_Status() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Occupation.label }}</span>
+                        <p>{{ form.Occupation() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Race.label }}</span>
+                        <p>{{ form.Race() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Sex.label }}</span>
+                        <p>{{ form.Sex() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Capital_Gain.label }}</span>
+                        <p>{{ form.Capital_Gain() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Capital_Loss.label }}</span>
+                        <p>{{ form.Capital_Loss() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Hours.label }}</span>
+                        <p>{{ form.Hours() }}</p>
+                    </div>
+
+                    <div class = "input-box">
+                        <span class="details">{{ form.Country.label }}</span>
+                        <p>{{ form.Country() }}</p>
+                    </div>
+                </div>
+                <div class="input-box">
+                    <span class="details">OUTPUT</span>
+                    <p>Your yearly annual income is : {{ value }}</p>
+                </div>
+                <div class="button">
+                    <p>{{ form.submit() }}</p>
+                </div>
+            </form>
+            <footer class="button"><p>Created by Deepjyoti © 2021</p></footer>
+        </div>
+    </div>
+</body>
+</html>

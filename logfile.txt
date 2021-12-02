@@ -1,0 +1,17 @@
+02-12-2021 22:48:38,INFO,Requested method : POST
+02-12-2021 22:48:38,INFO,form submitted, there is an active request and the method is POST
+02-12-2021 22:48:38,INFO,Values retrieved from the form
+02-12-2021 22:48:38,INFO,Threading Called !
+02-12-2021 22:48:38,INFO,Threading Created !
+02-12-2021 22:48:38,INFO,Threading Started !
+02-12-2021 22:48:38,INFO,Preprocessing files successfully loaded
+02-12-2021 22:48:38,INFO,Data was PreProcessed successfully
+02-12-2021 22:48:48,INFO,Successfully connected to Database
+02-12-2021 22:48:49,INFO,The Table already exists
+02-12-2021 22:48:49,INFO,User Data inserted 
+02-12-2021 22:48:49,INFO,Data 
+02-12-2021 22:48:49,INFO,Threading join !
+02-12-2021 22:48:49,INFO,XGB model successfully loaded!
+02-12-2021 22:48:49,INFO,Model prediction completed
+02-12-2021 22:48:50,INFO,Result added successfully
+02-12-2021 22:48:50,INFO,Uploaded to Database
