@@ -1,7 +1,7 @@
 # Adult Census Income Prediction
 
 ## Objective:
-The Goal is to predict whether a person has an income of more than 50K a year or not. This is basically a binary classification problem where a person is classified into the >50K group or <=50K group.
+Every individual wish to have a lucrative salary, but however the salary structure depends on various factors such as geographic location, education, experience, industry and many more. The aim is to predict whether an individual’s income will be greater than $50,000 per year based on several attributes relating to the individual.
 
 ## Benefits: 
 - To discover one’s earning potential.
