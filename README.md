@@ -25,20 +25,18 @@ Our web API will be a single page. The user input and the model’s prediction w
   <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/interface.png" alt="API interface">
 </p>
 
-## API Link
+## Link
 [Predict Income Category](https://netsalaryprediction.herokuapp.com/)
 
-## High Level Docuement
-[HLD](https://drive.google.com/file/d/1XVpW15u7FvVVVISBgHWKf-RZJDPfB6vj/view?usp=sharing)
+[High Level Docuement](https://drive.google.com/file/d/1XVpW15u7FvVVVISBgHWKf-RZJDPfB6vj/view?usp=sharing)
 
-## Low Level Document
-[LLD](https://drive.google.com/file/d/15EUjGj6KAnERYq_k-CA9W4OQN8krTeIU/view?usp=sharing)
+[Low Level Document](https://drive.google.com/file/d/15EUjGj6KAnERYq_k-CA9W4OQN8krTeIU/view?usp=sharing)
 
-## WireFrame Document
-[Wireframe](https://drive.google.com/file/d/1ld38xxeQ_f27dzc7jmOjjgwuekPINEoa/view?usp=sharing)
+[WireFrame Document](https://drive.google.com/file/d/1ld38xxeQ_f27dzc7jmOjjgwuekPINEoa/view?usp=sharing)
 
-## Architecture
 [Architecture](https://docs.google.com/presentation/d/1Sp3lFOkag8PfzsmHgOrGyv85eVoxhv1Z/edit?usp=sharing&ouid=105371034904586563585&rtpof=true&sd=true)
+
+[Youtube](https://youtu.be/NnRv99RIi8o)
 
 ## Feedback
 Hello reader if you find any bug please consider raising issue. I will try to fix it. If you like the project please give a ⭐
