@@ -28,7 +28,7 @@ Our web API will be a single page. The user input and the model’s prediction w
 ## Link
 [Predict Income Category](https://netsalaryprediction.herokuapp.com/)
 
-[Jupyter NoteBook](https://www.linkedin.com/posts/deepjyoti-saikia-67a016133_machinelearning-ai-ineuron-activity-6872241852372836352-VdvH)
+[Jupyter NoteBook](https://drive.google.com/file/d/1T9BVoy9EwMe2NLEcMCg_jYsY5XS7-Y-T/view?usp=sharing)
 
 [High Level Docuement](https://drive.google.com/file/d/1XVpW15u7FvVVVISBgHWKf-RZJDPfB6vj/view?usp=sharing)
 
