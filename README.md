@@ -25,8 +25,8 @@ Our web API will be a single page. The user input and the model’s prediction w
   <img src="https://github.com/xoikia/IncomePrediction/blob/main/readme%20images/interface.png" alt="API interface">
 </p>
 
-## Link
-[Predict Income Category](https://netsalaryprediction.herokuapp.com/)
+## Links
+[Deployed Link](https://netsalaryprediction.herokuapp.com/)
 
 [Jupyter NoteBook](https://drive.google.com/file/d/1T9BVoy9EwMe2NLEcMCg_jYsY5XS7-Y-T/view?usp=sharing)
 
